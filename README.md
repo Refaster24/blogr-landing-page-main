@@ -49,8 +49,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [https://refaster-portfolio.netlify.app/](https://refaster-portfolio.netlify.app/)
+- Frontend Mentor - [@Refaster24](https://www.frontendmentor.io/profile/Refaster24)
+- Linkedin - [hasan-salem](https://www.linkedin.com/in/hasan-salem-808277245/)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
