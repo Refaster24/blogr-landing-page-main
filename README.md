@@ -16,7 +16,6 @@ This is a solution to the [Blogr landing page challenge on Frontend Mentor](http
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -34,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here]([ttps://your-live-site-url.com](https://lustrous-starlight-0f7f35.netlify.app)
+- Live Site URL: [](https://lustrous-starlight-0f7f35.netlify.app)
 
 ## My process
 
