@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: ![](https://lustrous-starlight-0f7f35.netlify.app)
+- Live Site URL: [https://lustrous-starlight-0f7f35.netlify.app](https://lustrous-starlight-0f7f35.netlify.app)
 
 ## My process
 
